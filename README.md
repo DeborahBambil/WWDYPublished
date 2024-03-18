@@ -10,7 +10,8 @@ $ python search.py
 1. Insert document in txt containing author names that will be abbreviations
 $ python abbrev.py
    
-Exemple:
+Exemple
+
 Input: Deborah Ribeiro Bambil
 
 Output: Deborah, B
