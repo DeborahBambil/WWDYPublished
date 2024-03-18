@@ -8,7 +8,7 @@ $ python search.py
 
 # How to make a list of abbreviations:
 1. Insert document in txt containing author names that will be abbreviations
-$ python abbrev.py
+$ python abbreviations.py
    
 Exemple
 
