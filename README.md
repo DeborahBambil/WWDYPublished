@@ -11,7 +11,7 @@ $ python search.py
 $ python abbrev.py
    
 Exemple:
-Input: Deborah Ribeiro Bambil
+Input: Deborah Ribeiro Bambil//
 Output: Deborah, B
 
 
